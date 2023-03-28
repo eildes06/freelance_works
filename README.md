@@ -1,2 +1,2 @@
 # freelance_works
-This are projects for my freelance jobs
+These are projects for my freelance jobs
